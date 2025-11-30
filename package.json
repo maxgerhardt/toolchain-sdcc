@@ -1,0 +1,21 @@
+{
+  "name": "toolchain-sdcc",
+  "version": "1.40200.0",
+  "description": "Small Device C compiler suite",
+  "keywords": [
+    "build tools",
+    "compiler",
+    "assembler",
+    "linker",
+    "preprocessor"
+  ],
+  "homepage": "http://sdcc.sourceforge.net",
+  "license": "GPL-2.0-or-later",
+  "system": [
+    "linux_x86_64"
+  ],
+  "repository": {
+    "type": "svn",
+    "url": "https://sourceforge.net/p/sdcc/code/HEAD/tree/trunk/sdcc"
+  }
+}
